@@ -1,0 +1,605 @@
+Xamarin Information: 0 : Xamarin - 17.7.0.216-d17-7+133ddef: 08/31/2023 20:56:33Z
+    DateTime=2023-08-31T20:56:33.6675041Z: 08/31/2023 20:56:33Z
+Xamarin Information: 0 : !Xamarin - 17.7.0.216-d17-7+133ddef: 08/31/2023 20:56:33Z
+    DateTime=2023-08-31T20:56:33.6831251Z: 08/31/2023 20:56:33Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkSetup Information: 0 : androidsdksetup: processing AndroidStarted event: 08/31/2023 20:56:33Z
+    DateTime=2023-08-31T20:56:33.7768877Z: 08/31/2023 20:56:33Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkSetup Information: 0 : androidsdksetup: verify mustCheckIfSolutionIsReady:True delay:00:00:02: 08/31/2023 20:56:33Z
+    DateTime=2023-08-31T20:56:33.7999077Z: 08/31/2023 20:56:33Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkSetup Information: 0 : androidsdksetup: verify canceled => solution is not ready: 08/31/2023 20:56:33Z
+    DateTime=2023-08-31T20:56:33.7999077Z: 08/31/2023 20:56:33Z
+Xamarin.VisualStudio.Android.XamarinAndroidPackage Warning: 0 : Initializing Xamarin.VisualStudio.Android.XamarinAndroidPackage: 08/31/2023 20:56:34Z
+    DateTime=2023-08-31T20:56:34.2304103Z: 08/31/2023 20:56:34Z
+Xamarin.VisualStudio.TastyPackage Information: 0 : Hooked up SDB tracing adapter: 08/31/2023 20:56:34Z
+    DateTime=2023-08-31T20:56:34.2616064Z: 08/31/2023 20:56:34Z
+Xamarin.VisualStudio.TastyPackage Information: 0 : Initialization finished: 08/31/2023 20:56:34Z
+    DateTime=2023-08-31T20:56:34.2616064Z: 08/31/2023 20:56:34Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Starting Broker in-process...: 08/31/2023 20:56:34Z
+    DateTime=2023-08-31T20:56:34.2772939Z: 08/31/2023 20:56:34Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Starting Broker in-process...: 08/31/2023 20:56:34Z
+    DateTime=2023-08-31T20:56:34.2772939Z: 08/31/2023 20:56:34Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Starting: Broker 17.7.0.216 ( PID = 13292 ): 08/31/2023 20:56:34Z
+    DateTime=2023-08-31T20:56:34.2929067Z: 08/31/2023 20:56:34Z
+Xamarin.Messaging.Server.MessagingServer Information: 0 : Starting Messaging Server...: 08/31/2023 20:56:34Z
+    DateTime=2023-08-31T20:56:34.2929067Z: 08/31/2023 20:56:34Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Connecting Agent to the Broker...: 08/31/2023 20:56:34Z
+    DateTime=2023-08-31T20:56:34.3169552Z: 08/31/2023 20:56:34Z
+Xamarin.VisualStudio.IOS.XamarinIOSPackage Warning: 0 : Initializing Xamarin.VisualStudio.IOS.XamarinIOSPackage.: 08/31/2023 20:56:34Z
+    DateTime=2023-08-31T20:56:34.3794519Z: 08/31/2023 20:56:34Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Initializing Agent context...: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.6545593Z: 08/31/2023 20:56:35Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering Agent message handlers...: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.6565587Z: 08/31/2023 20:56:35Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.GetAgentVersionMessage: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.6585591Z: 08/31/2023 20:56:35Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.StopAgentMessage: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.7124521Z: 08/31/2023 20:56:35Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.RegisterAgentMessage: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.7304534Z: 08/31/2023 20:56:35Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.GetActiveClientsMessage: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.7374516Z: 08/31/2023 20:56:35Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Registering message handler for message type: Xamarin.Messaging.GetActiveAgentsMessage: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.7404517Z: 08/31/2023 20:56:35Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Agent registered: Broker: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.7464539Z: 08/31/2023 20:56:35Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Successfully started Broker in-process: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.7484527Z: 08/31/2023 20:56:35Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Successfully started Broker in-process: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.7484527Z: 08/31/2023 20:56:35Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Connecting to Local Broker...: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.7524543Z: 08/31/2023 20:56:35Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Connecting to Local Broker...: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.7524543Z: 08/31/2023 20:56:35Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Agent Broker 17.7.0.216 is running: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.9564145Z: 08/31/2023 20:56:35Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Successfully connected to Local Broker: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.9584155Z: 08/31/2023 20:56:35Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Successfully connected to Local Broker: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.9584155Z: 08/31/2023 20:56:35Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Starting IDB Local Agent...: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.9694147Z: 08/31/2023 20:56:35Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Starting IDB Local Agent...: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.9694147Z: 08/31/2023 20:56:35Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Starting: IDB.Local 17.7.0.216 ( PID = 13292 ): 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.9704142Z: 08/31/2023 20:56:35Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Connecting Agent to the Broker...: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.9704142Z: 08/31/2023 20:56:35Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Initializing Agent context...: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.9714147Z: 08/31/2023 20:56:35Z
+Xamarin.iOS.Windows.MobileDeviceConfigurator Information: 0 : Loading Apple Mobile Device support libraries...: 08/31/2023 20:56:35Z
+    DateTime=2023-08-31T20:56:35.9914138Z: 08/31/2023 20:56:35Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering Agent message handlers...: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0224143Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.GetAgentVersionMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0224143Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.StopAgentMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0234149Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : IDB Local Registering Handlers: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0324138Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetMobileDeviceConfigurationMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0324138Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetDevicesMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0374148Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.RefreshConnectedDevicesMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0414142Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.DeployAppMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0474190Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.LaunchAppMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0524181Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.StopDebuggingAppMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0574573Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.AddDeveloperAccountMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0664145Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetDeveloperAccountsMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0704141Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetSigningIdentitiesMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0754141Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetProvisioningProfilesMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0804146Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.RemoveDeveloperAccountMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0854139Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.SyncSigningIdentitiesMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0934138Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.SyncProvisioningProfilesMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.0974139Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.DownloadProvisioningProfilesMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.1024141Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.AutoProvisionMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.1064142Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.CreateAppleCertificateMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.1104140Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetProvisioningInformationMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.1134158Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.CheckProvisioningStatusMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.1164148Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.ImportCertificateMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.1194146Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.GetSigningIdentityTypeMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.1224149Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.StartDeviceLogMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.1264150Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.IDB.Local.IDBLocalAgent Information: 0 : Registering message handler for message type: Xamarin.Messaging.IDB.Contracts.StopDeviceLogMessage: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.1334158Z: 08/31/2023 20:56:36Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : Successfully started IDB Local Agent: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.1424150Z: 08/31/2023 20:56:36Z
+Xamarin.VisualStudio.IOS.Messaging.LocalMessagingInitializer Information: 0 : !Successfully started IDB Local Agent: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.1424150Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.Server.BrokerAgentInProcess Information: 0 : Agent registered: IDBLocal1770216: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.1454156Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Checking xma 17.7.0.216 installation...: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.1704142Z: 08/31/2023 20:56:36Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Checking xma 17.7.0.216 installation...: 08/31/2023 20:56:36Z
+    DateTime=2023-08-31T20:56:36.1704142Z: 08/31/2023 20:56:36Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : SetSelectedDeviceAsync BEST Local Device: 08/31/2023 20:56:41Z
+    DateTime=2023-08-31T20:56:41.8826836Z: 08/31/2023 20:56:41Z
+Xamarin.VisualStudio.ProjectSystem.ProjectPropertiesBase Information: 0 : !SetSelectedDeviceAsync BEST Local Device: 08/31/2023 20:56:41Z
+    DateTime=2023-08-31T20:56:41.8826836Z: 08/31/2023 20:56:41Z
+Xamarin.VisualStudio.ProjectSystem.PackageServices Warning: 0 : Failed to Restore Nuget packages for project E:\Project\RxLessMobile\RxLessMobile\RxLessMobile.Android\RxLessMobile.Android.csproj.: 08/31/2023 20:56:42Z
+    DateTime=2023-08-31T20:56:42.0565623Z: 08/31/2023 20:56:42Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: verify android sdk installed: 08/31/2023 20:56:42Z
+    DateTime=2023-08-31T20:56:42.1335598Z: 08/31/2023 20:56:42Z
+Xamarin.VisualStudio.Android.Setup.AndroidSdkValidation Information: 0 : androidsdksetup: removing android sdk errors: 08/31/2023 20:56:42Z
+    DateTime=2023-08-31T20:56:42.1345596Z: 08/31/2023 20:56:42Z
+Xamarin.VisualStudio.Android.Setup.AutoSdk Information: 0 : androidsdksetup: auto sdk check Android licenses: 08/31/2023 20:56:43Z
+    DateTime=2023-08-31T20:56:43.4468551Z: 08/31/2023 20:56:43Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from DisconnectedState to ConfiguringState on AxeMac (192.168.1.109): 08/31/2023 20:58:06Z
+    DateTime=2023-08-31T20:58:06.5326786Z: 08/31/2023 20:58:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking host configuration for connecting to 'AxeMac'...: 08/31/2023 20:58:06Z
+    DateTime=2023-08-31T20:58:06.5741744Z: 08/31/2023 20:58:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking host configuration for connecting to 'AxeMac'...: 08/31/2023 20:58:06Z
+    DateTime=2023-08-31T20:58:06.5741744Z: 08/31/2023 20:58:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking SSH configuration...: 08/31/2023 20:58:06Z
+    DateTime=2023-08-31T20:58:06.6636859Z: 08/31/2023 20:58:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking SSH configuration...: 08/31/2023 20:58:06Z
+    DateTime=2023-08-31T20:58:06.6636859Z: 08/31/2023 20:58:06Z
+Xamarin.Messaging.Ssh.SshCommands Information: 0 : Current SSH Key File: C:\Users\James\AppData\Local\Xamarin\MonoTouch\id_xma.pub: 08/31/2023 20:58:06Z
+    DateTime=2023-08-31T20:58:06.6754440Z: 08/31/2023 20:58:06Z
+Xamarin.Messaging.Ssh.SshCommands Information: 0 : !Current SSH Key File: C:\Users\James\AppData\Local\Xamarin\MonoTouch\id_xma.pub: 08/31/2023 20:58:06Z
+    DateTime=2023-08-31T20:58:06.6754440Z: 08/31/2023 20:58:06Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Initializing environment...: 08/31/2023 20:58:18Z
+    DateTime=2023-08-31T20:58:18.8227789Z: 08/31/2023 20:58:18Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Initializing environment...: 08/31/2023 20:58:18Z
+    DateTime=2023-08-31T20:58:18.8227789Z: 08/31/2023 20:58:18Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking available disk space...: 08/31/2023 20:58:18Z
+    DateTime=2023-08-31T20:58:18.9215495Z: 08/31/2023 20:58:18Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking available disk space...: 08/31/2023 20:58:18Z
+    DateTime=2023-08-31T20:58:18.9215495Z: 08/31/2023 20:58:18Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking if Rosetta is installed...: 08/31/2023 20:58:18Z
+    DateTime=2023-08-31T20:58:18.9823155Z: 08/31/2023 20:58:18Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking if Rosetta is installed...: 08/31/2023 20:58:18Z
+    DateTime=2023-08-31T20:58:18.9823155Z: 08/31/2023 20:58:18Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Mono installation...: 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.0766913Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Mono installation...: 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.0776912Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Ssh.SshCommands Information: 0 : A valid Mono installation has been found at '/Library/Frameworks/Mono.framework/Versions/Current/bin/mono64': 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.1191573Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Integration.State.ServerStateContext Warning: 0 : The required Mono version to install on the Mac couldn't be determined, so the Mono validation will not continue.: 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.4835316Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Integration.State.ServerStateContext Warning: 0 : !The required Mono version to install on the Mac couldn't be determined, so the Mono validation will not continue.: 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.4835316Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xamarin iOS installation...: 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.5184824Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xamarin iOS installation...: 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.5184824Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking host configuration for connecting to 'AxeMac'...: 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.6065352Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking host configuration for connecting to 'AxeMac'...: 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.6065352Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConfiguringState to ConfiguredState on AxeMac (192.168.1.109): 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.6363461Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Host 'AxeMac' is configured correctly: 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.6749726Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Host 'AxeMac' is configured correctly: 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.6749726Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConfiguredState to ConnectingState on AxeMac (192.168.1.109): 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.6859310Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting connection to 'AxeMac'...: 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.7003501Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting connection to 'AxeMac'...: 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.7003501Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Checking Broker 17.7.0.216 installation...: 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.9285322Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Checking Broker 17.7.0.216 installation...: 08/31/2023 20:58:19Z
+    DateTime=2023-08-31T20:58:19.9285322Z: 08/31/2023 20:58:19Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Starting Broker 17.7.0.216 in port 56727...: 08/31/2023 20:58:20Z
+    DateTime=2023-08-31T20:58:20.8457687Z: 08/31/2023 20:58:20Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Starting Broker 17.7.0.216 in port 56727...: 08/31/2023 20:58:20Z
+    DateTime=2023-08-31T20:58:20.8457687Z: 08/31/2023 20:58:20Z
+Xamarin.Messaging.Ssh.SshCommands Information: 0 : A valid Mono installation has been found at '/Library/Frameworks/Mono.framework/Versions/Current/bin/mono64': 08/31/2023 20:58:20Z
+    DateTime=2023-08-31T20:58:20.8861857Z: 08/31/2023 20:58:20Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Broker 17.7.0.216 started successfully: 08/31/2023 20:58:22Z
+    DateTime=2023-08-31T20:58:22.8201500Z: 08/31/2023 20:58:22Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Broker 17.7.0.216 started successfully: 08/31/2023 20:58:22Z
+    DateTime=2023-08-31T20:58:22.8201500Z: 08/31/2023 20:58:22Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Agent Broker 17.7.0.216 is running: 08/31/2023 20:58:23Z
+    DateTime=2023-08-31T20:58:23.0515406Z: 08/31/2023 20:58:23Z
+System.Net.Mqtt.Sdk.Bindings.TcpChannel Warning: 0 : The underlying communication stream has completed sending bytes. The observable sequence will be completed and the channel will be disposed: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.5832149Z: 08/31/2023 20:58:33Z
+System.Net.Mqtt.Sdk.ClientPacketListener Warning: 0 : Client vs13292James - Packet Channel observable sequence has been completed: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.5852089Z: 08/31/2023 20:58:33Z
+System.Net.Mqtt.Sdk.MqttClientImpl Error: 0 : The client vs13292James has been disconnected while trying to perform the subscription to topic vs13292James/+/xvs/idb/get-signing-identities: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.5852089Z: 08/31/2023 20:58:33Z
+System.Net.Mqtt.Sdk.MqttClientImpl Error: 0 : System.Net.Mqtt.MqttClientException: The client vs13292James has been disconnected while trying to perform the subscription to topic vs13292James/+/xvs/idb/get-signing-identities
+   at System.Net.Mqtt.Sdk.MqttClientImpl.<SubscribeAsync>d__30.MoveNext(): 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.5872090Z: 08/31/2023 20:58:33Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Disposing Messaging service references...: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.6057363Z: 08/31/2023 20:58:33Z
+Xamarin.Messaging.Ssh.MessagingService Error: 0 : An error occurred on the underlying client while executing an operation. Details: The client vs13292James has been disconnected while trying to perform the subscription to topic vs13292James/+/xvs/idb/get-signing-identities: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.6077411Z: 08/31/2023 20:58:33Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConnectingState to ConnectingState on AxeMac (192.168.1.109): 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.6107406Z: 08/31/2023 20:58:33Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Checking Broker 17.7.0.216 installation...: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.7760778Z: 08/31/2023 20:58:33Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Checking Broker 17.7.0.216 installation...: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.7760778Z: 08/31/2023 20:58:33Z
+Xamarin.Messaging.Client.MessagingClient Error: 0 : There was an error while trying to subscribe to topic vs13292James/+/xvs/idb/get-signing-identities
+Xamarin.Messaging.Exceptions.MessagingException: There was an error while trying to subscribe to topic vs13292James/+/xvs/idb/get-signing-identities ---> System.Net.Mqtt.MqttClientException: The client vs13292James has been disconnected while trying to perform the subscription to topic vs13292James/+/xvs/idb/get-signing-identities
+   at System.Net.Mqtt.Sdk.MqttClientImpl.<SubscribeAsync>d__30.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Mqtt.Sdk.MqttClientImpl.<SubscribeAsync>d__30.MoveNext() in D:\a\_work\1\s\src\Client\Sdk\MqttClientImpl.cs:line 198
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Client.MessagingReceiver.<SubscribeAsync>d__19.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Client\MessagingReceiver.cs:line 157
+   --- End of inner exception stack trace ---
+   at Xamarin.Messaging.Client.MessagingReceiver.<SubscribeAsync>d__19.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Client\MessagingReceiver.cs:line 167
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Client.MessagingReceiver.<GetResponseReceiver>d__14`1.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Client\MessagingReceiver.cs:line 97
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Client.MessagingClient.<PostAsync>d__21`2.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Client\MessagingClient.cs:line 143: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.8690245Z: 08/31/2023 20:58:33Z
+Xamarin.Messaging.Ssh.MessagingClientPro Warning: 0 : An error occurred while executing the operation. Trying to reestablish the connection...: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.8740253Z: 08/31/2023 20:58:33Z
+Xamarin.Messaging.Ssh.MessagingClientPro Warning: 0 : An error occurred while executing the operation and the connection could not be reestablished: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.8750249Z: 08/31/2023 20:58:33Z
+Xamarin.VisualStudio.IOS.IAppleProvisioningManager Error: 0 : Failed to retrieve remote information
+Xamarin.Messaging.Exceptions.MessagingException: An error occurred while executing the operation and the connection could not be reestablished ---> Xamarin.Messaging.Exceptions.MessagingException: There was an error while trying to subscribe to topic vs13292James/+/xvs/idb/get-signing-identities ---> System.Net.Mqtt.MqttClientException: The client vs13292James has been disconnected while trying to perform the subscription to topic vs13292James/+/xvs/idb/get-signing-identities
+   at System.Net.Mqtt.Sdk.MqttClientImpl.<SubscribeAsync>d__30.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Mqtt.Sdk.MqttClientImpl.<SubscribeAsync>d__30.MoveNext() in D:\a\_work\1\s\src\Client\Sdk\MqttClientImpl.cs:line 198
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Client.MessagingReceiver.<SubscribeAsync>d__19.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Client\MessagingReceiver.cs:line 157
+   --- End of inner exception stack trace ---
+   at Xamarin.Messaging.Client.MessagingReceiver.<SubscribeAsync>d__19.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Client\MessagingReceiver.cs:line 167
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Client.MessagingReceiver.<GetResponseReceiver>d__14`1.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Client\MessagingReceiver.cs:line 97
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Client.MessagingClient.<PostAsync>d__21`2.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Client\MessagingClient.cs:line 223
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Ssh.MessagingRunnerPro.<ExecuteWithRetryAsync>d__13`1.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Ssh\MessagingRunnerPro.cs:line 0
+   --- End of inner exception stack trace ---
+   at Xamarin.Messaging.Ssh.MessagingRunnerPro.<ReconnectAsync>d__19.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Ssh\MessagingRunnerPro.cs:line 173
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Ssh.MessagingRunnerPro.<HandleExceptionAsync>d__15`1.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Ssh\MessagingRunnerPro.cs:line 101
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Ssh.MessagingRunnerPro.<ExecuteWithRetryAsync>d__13`1.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Ssh\MessagingRunnerPro.cs:line 0
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Ssh.MessagingRunnerPro.<ExecuteWithRetryAsync>d__11`1.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Ssh\MessagingRunnerPro.cs:line 0
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.Messaging.Ssh.MessagingClientPro.<PostAsync>d__25`2.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Ssh\MessagingClientPro.cs:line 0
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Xamarin.VisualStudio.IOS.AppleProvisioningManager.<GetRemoteSigningIdentitiesAsync>d__22.MoveNext() in D:\a\_work\1\s\src\Core\VisualStudio.IOS\Provisioning\AppleProvisioningManager.cs:line 513: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.8890244Z: 08/31/2023 20:58:33Z
+Xamarin.VisualStudio.IOS.Messaging.MacLogFilesProvider Information: 0 : Downloading /Users/jamessumner/Library/Logs/Xamarin.Messaging-17.7.0.216/2023-08-31__15-56-33.13292.Broker.fbd.stderr.log...: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.8910251Z: 08/31/2023 20:58:33Z
+Xamarin.VisualStudio.IOS.Messaging.MacLogFilesProvider Information: 0 : !Downloading /Users/jamessumner/Library/Logs/Xamarin.Messaging-17.7.0.216/2023-08-31__15-56-33.13292.Broker.fbd.stderr.log...: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.8910251Z: 08/31/2023 20:58:33Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting connection to 'AxeMac'...: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.9935777Z: 08/31/2023 20:58:33Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting connection to 'AxeMac'...: 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.9935777Z: 08/31/2023 20:58:33Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConnectingState to SshConnectedState on AxeMac (192.168.1.109): 08/31/2023 20:58:33Z
+    DateTime=2023-08-31T20:58:33.9945801Z: 08/31/2023 20:58:33Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : SSH connection to 'AxeMac' has been established...: 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.0112326Z: 08/31/2023 20:58:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !SSH connection to 'AxeMac' has been established...: 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.0112326Z: 08/31/2023 20:58:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from SshConnectedState to AgentsStartingState on AxeMac (192.168.1.109): 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.0232263Z: 08/31/2023 20:58:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting registered Agents: IDB 17.7.0.216...: 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.0360561Z: 08/31/2023 20:58:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting registered Agents: IDB 17.7.0.216...: 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.0360561Z: 08/31/2023 20:58:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Error: 0 : An error occurred while registering a handler for remote exception messages, so the remote errors content will not be handled in this active connection
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Xamarin.Messaging.Integration.RemoteServer.<SubscribeRemoteExceptionsAsync>d__81.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Integration\RemoteServer.cs:line 540: 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.0582114Z: 08/31/2023 20:58:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Error: 0 : !An error occurred while registering a handler for remote exception messages, so the remote errors content will not be handled in this active connection: 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.0582114Z: 08/31/2023 20:58:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting IDB 17.7.0.216...: 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.1018291Z: 08/31/2023 20:58:34Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting IDB 17.7.0.216...: 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.1018291Z: 08/31/2023 20:58:34Z
+Xamarin.VisualStudio.IOS.Messaging.MacLogFilesProvider Information: 0 : Downloading /Users/jamessumner/Library/Logs/Xamarin.Messaging-17.7.0.216/2023-08-31__15-56-33.13292.Broker.log...: 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.1028298Z: 08/31/2023 20:58:34Z
+Xamarin.VisualStudio.IOS.Messaging.MacLogFilesProvider Information: 0 : !Downloading /Users/jamessumner/Library/Logs/Xamarin.Messaging-17.7.0.216/2023-08-31__15-56-33.13292.Broker.log...: 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.1028298Z: 08/31/2023 20:58:34Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Checking IDB 17.7.0.216 installation...: 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.1494934Z: 08/31/2023 20:58:34Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Checking IDB 17.7.0.216 installation...: 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.1494934Z: 08/31/2023 20:58:34Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Starting Broker 17.7.0.216 in port 50163...: 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.7047230Z: 08/31/2023 20:58:34Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Starting Broker 17.7.0.216 in port 50163...: 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.7047230Z: 08/31/2023 20:58:34Z
+Xamarin.Messaging.Ssh.SshCommands Information: 0 : A valid Mono installation has been found at '/Library/Frameworks/Mono.framework/Versions/Current/bin/mono64': 08/31/2023 20:58:34Z
+    DateTime=2023-08-31T20:58:34.7365747Z: 08/31/2023 20:58:34Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Broker 17.7.0.216 started successfully: 08/31/2023 20:58:36Z
+    DateTime=2023-08-31T20:58:36.3123279Z: 08/31/2023 20:58:36Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Broker 17.7.0.216 started successfully: 08/31/2023 20:58:36Z
+    DateTime=2023-08-31T20:58:36.3123279Z: 08/31/2023 20:58:36Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Starting Agent IDB 17.7.0.216...: 08/31/2023 20:58:37Z
+    DateTime=2023-08-31T20:58:37.0999333Z: 08/31/2023 20:58:37Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Starting IDB 17.7.0.216 in port 50163...: 08/31/2023 20:58:37Z
+    DateTime=2023-08-31T20:58:37.0999333Z: 08/31/2023 20:58:37Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Starting IDB 17.7.0.216 in port 50163...: 08/31/2023 20:58:37Z
+    DateTime=2023-08-31T20:58:37.0999333Z: 08/31/2023 20:58:37Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Agent IDB 17.7.0.216 is running: 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.1525948Z: 08/31/2023 20:58:41Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : IDB 17.7.0.216 started successfully: 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.3456455Z: 08/31/2023 20:58:41Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !IDB 17.7.0.216 started successfully: 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.3456455Z: 08/31/2023 20:58:41Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : IDB 17.7.0.216 started: 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.3466435Z: 08/31/2023 20:58:41Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !IDB 17.7.0.216 started: 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.3466435Z: 08/31/2023 20:58:41Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting registered Agents: ...: 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.3901909Z: 08/31/2023 20:58:41Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting registered Agents: ...: 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.3901909Z: 08/31/2023 20:58:41Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from AgentsStartingState to AgentsStartedState on AxeMac (192.168.1.109): 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.4346300Z: 08/31/2023 20:58:41Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The Agents have been started successfully: 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.5286551Z: 08/31/2023 20:58:41Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The Agents have been started successfully: 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.5286551Z: 08/31/2023 20:58:41Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from AgentsStartedState to ValidatingState on AxeMac (192.168.1.109): 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.5407124Z: 08/31/2023 20:58:41Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Performing server validations against 'AxeMac'...: 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.6544584Z: 08/31/2023 20:58:41Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Performing server validations against 'AxeMac'...: 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.6544584Z: 08/31/2023 20:58:41Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Initializing IDB environment...: 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.6881470Z: 08/31/2023 20:58:41Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Initializing IDB environment...: 08/31/2023 20:58:41Z
+    DateTime=2023-08-31T20:58:41.6881470Z: 08/31/2023 20:58:41Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Creating OSVersionList.json file..: 08/31/2023 20:58:42Z
+    DateTime=2023-08-31T20:58:42.1845407Z: 08/31/2023 20:58:42Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : Server Settings:
+- mlaunch path: /Library/Frameworks/Xamarin.iOS.framework/Versions/Current/bin/mlaunch
+- Xcode version: 14.3
+- Xcode path: /Applications/Xcode.app
+: 08/31/2023 20:58:42Z
+    DateTime=2023-08-31T20:58:42.1885429Z: 08/31/2023 20:58:42Z
+Xamarin.VisualStudio.IOS.RemoteSettingsProvider Information: 0 : !Server Settings:
+- mlaunch path: /Library/Frameworks/Xamarin.iOS.framework/Versions/Current/bin/mlaunch
+- Xcode version: 14.3
+- Xcode path: /Applications/Xcode.app
+: 08/31/2023 20:58:42Z
+    DateTime=2023-08-31T20:58:42.1885429Z: 08/31/2023 20:58:42Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Validating Mac operating system version compatibility...: 08/31/2023 20:58:42Z
+    DateTime=2023-08-31T20:58:42.1925406Z: 08/31/2023 20:58:42Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Validating Mac operating system version compatibility...: 08/31/2023 20:58:42Z
+    DateTime=2023-08-31T20:58:42.1925406Z: 08/31/2023 20:58:42Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode version compatibility...: 08/31/2023 20:58:42Z
+    DateTime=2023-08-31T20:58:42.2460319Z: 08/31/2023 20:58:42Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode version compatibility...: 08/31/2023 20:58:42Z
+    DateTime=2023-08-31T20:58:42.2460319Z: 08/31/2023 20:58:42Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Validating Xcode license state...: 08/31/2023 20:58:42Z
+    DateTime=2023-08-31T20:58:42.2627109Z: 08/31/2023 20:58:42Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Validating Xcode license state...: 08/31/2023 20:58:42Z
+    DateTime=2023-08-31T20:58:42.2627109Z: 08/31/2023 20:58:42Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Verifying installed Xcode tools...: 08/31/2023 20:58:43Z
+    DateTime=2023-08-31T20:58:43.4972661Z: 08/31/2023 20:58:43Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Verifying installed Xcode tools...: 08/31/2023 20:58:43Z
+    DateTime=2023-08-31T20:58:43.4972661Z: 08/31/2023 20:58:43Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode tool package 'MobileDeviceDevelopment.pkg' installation...: 08/31/2023 20:58:43Z
+    DateTime=2023-08-31T20:58:43.5921512Z: 08/31/2023 20:58:43Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode tool package 'MobileDeviceDevelopment.pkg' installation...: 08/31/2023 20:58:43Z
+    DateTime=2023-08-31T20:58:43.5921512Z: 08/31/2023 20:58:43Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Xcode tool package 'MobileDeviceDevelopment.pkg' is up to date: 08/31/2023 20:58:43Z
+    DateTime=2023-08-31T20:58:43.6874059Z: 08/31/2023 20:58:43Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Xcode tool package 'MobileDeviceDevelopment.pkg' is up to date: 08/31/2023 20:58:43Z
+    DateTime=2023-08-31T20:58:43.6874059Z: 08/31/2023 20:58:43Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode tool package 'CoreTypes.pkg' installation...: 08/31/2023 20:58:43Z
+    DateTime=2023-08-31T20:58:43.6914004Z: 08/31/2023 20:58:43Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode tool package 'CoreTypes.pkg' installation...: 08/31/2023 20:58:43Z
+    DateTime=2023-08-31T20:58:43.6914004Z: 08/31/2023 20:58:43Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Xcode tool package 'CoreTypes.pkg' is up to date: 08/31/2023 20:58:44Z
+    DateTime=2023-08-31T20:58:44.0056945Z: 08/31/2023 20:58:44Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Xcode tool package 'CoreTypes.pkg' is up to date: 08/31/2023 20:58:44Z
+    DateTime=2023-08-31T20:58:44.0056945Z: 08/31/2023 20:58:44Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode tool package 'MobileDevice.pkg' installation...: 08/31/2023 20:58:44Z
+    DateTime=2023-08-31T20:58:44.0281356Z: 08/31/2023 20:58:44Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode tool package 'MobileDevice.pkg' installation...: 08/31/2023 20:58:44Z
+    DateTime=2023-08-31T20:58:44.0281356Z: 08/31/2023 20:58:44Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Xcode tool package 'MobileDevice.pkg' is up to date: 08/31/2023 20:58:44Z
+    DateTime=2023-08-31T20:58:44.1617999Z: 08/31/2023 20:58:44Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Xcode tool package 'MobileDevice.pkg' is up to date: 08/31/2023 20:58:44Z
+    DateTime=2023-08-31T20:58:44.1617999Z: 08/31/2023 20:58:44Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xcode tool package 'XcodeSystemResources.pkg' installation...: 08/31/2023 20:58:44Z
+    DateTime=2023-08-31T20:58:44.1782838Z: 08/31/2023 20:58:44Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xcode tool package 'XcodeSystemResources.pkg' installation...: 08/31/2023 20:58:44Z
+    DateTime=2023-08-31T20:58:44.1782838Z: 08/31/2023 20:58:44Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Xcode tool package 'XcodeSystemResources.pkg' is up to date: 08/31/2023 20:58:44Z
+    DateTime=2023-08-31T20:58:44.3004148Z: 08/31/2023 20:58:44Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Xcode tool package 'XcodeSystemResources.pkg' is up to date: 08/31/2023 20:58:44Z
+    DateTime=2023-08-31T20:58:44.3004148Z: 08/31/2023 20:58:44Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking provisioning information...: 08/31/2023 20:58:44Z
+    DateTime=2023-08-31T20:58:44.3146086Z: 08/31/2023 20:58:44Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking provisioning information...: 08/31/2023 20:58:44Z
+    DateTime=2023-08-31T20:58:44.3146086Z: 08/31/2023 20:58:44Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Performing server validations against 'AxeMac'...: 08/31/2023 20:58:44Z
+    DateTime=2023-08-31T20:58:44.9833732Z: 08/31/2023 20:58:44Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Performing server validations against 'AxeMac'...: 08/31/2023 20:58:44Z
+    DateTime=2023-08-31T20:58:44.9833732Z: 08/31/2023 20:58:44Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ValidatingState to ConnectedState on AxeMac (192.168.1.109): 08/31/2023 20:58:45Z
+    DateTime=2023-08-31T20:58:45.0801785Z: 08/31/2023 20:58:45Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Connection to 'AxeMac' completed successfully: 08/31/2023 20:58:45Z
+    DateTime=2023-08-31T20:58:45.2196215Z: 08/31/2023 20:58:45Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Connection to 'AxeMac' completed successfully: 08/31/2023 20:58:45Z
+    DateTime=2023-08-31T20:58:45.2196215Z: 08/31/2023 20:58:45Z
+Xamarin.Messaging.Ssh.MessagingService Warning: 0 : Agent IDB 17.7.0.216 is not connected...: 08/31/2023 20:58:51Z
+    DateTime=2023-08-31T20:58:51.5632992Z: 08/31/2023 20:58:51Z
+Xamarin.Messaging.Ssh.MessagingService Warning: 0 : !Agent IDB 17.7.0.216 is not connected...: 08/31/2023 20:58:51Z
+    DateTime=2023-08-31T20:58:51.5632992Z: 08/31/2023 20:58:51Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConnectedState to AgentsStartingState on AxeMac (192.168.1.109): 08/31/2023 20:58:51Z
+    DateTime=2023-08-31T20:58:51.5682992Z: 08/31/2023 20:58:51Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting registered Agents: IDB 17.7.0.216...: 08/31/2023 20:58:51Z
+    DateTime=2023-08-31T20:58:51.6004367Z: 08/31/2023 20:58:51Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting registered Agents: IDB 17.7.0.216...: 08/31/2023 20:58:51Z
+    DateTime=2023-08-31T20:58:51.6004367Z: 08/31/2023 20:58:51Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting IDB 17.7.0.216...: 08/31/2023 20:58:51Z
+    DateTime=2023-08-31T20:58:51.6039631Z: 08/31/2023 20:58:51Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting IDB 17.7.0.216...: 08/31/2023 20:58:51Z
+    DateTime=2023-08-31T20:58:51.6039631Z: 08/31/2023 20:58:51Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Checking IDB 17.7.0.216 installation...: 08/31/2023 20:58:51Z
+    DateTime=2023-08-31T20:58:51.6050147Z: 08/31/2023 20:58:51Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Checking IDB 17.7.0.216 installation...: 08/31/2023 20:58:51Z
+    DateTime=2023-08-31T20:58:51.6050147Z: 08/31/2023 20:58:51Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Starting Agent IDB 17.7.0.216...: 08/31/2023 20:58:54Z
+    DateTime=2023-08-31T20:58:54.5844580Z: 08/31/2023 20:58:54Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : Starting IDB 17.7.0.216 in port 50163...: 08/31/2023 20:58:54Z
+    DateTime=2023-08-31T20:58:54.5844580Z: 08/31/2023 20:58:54Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !Starting IDB 17.7.0.216 in port 50163...: 08/31/2023 20:58:54Z
+    DateTime=2023-08-31T20:58:54.5844580Z: 08/31/2023 20:58:54Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Agent IDB 17.7.0.216 is running: 08/31/2023 20:58:58Z
+    DateTime=2023-08-31T20:58:58.8058103Z: 08/31/2023 20:58:58Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : IDB 17.7.0.216 started successfully: 08/31/2023 20:58:58Z
+    DateTime=2023-08-31T20:58:58.8319964Z: 08/31/2023 20:58:58Z
+Xamarin.Messaging.Ssh.MessagingCommands Information: 0 : !IDB 17.7.0.216 started successfully: 08/31/2023 20:58:58Z
+    DateTime=2023-08-31T20:58:58.8319964Z: 08/31/2023 20:58:58Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : IDB 17.7.0.216 started: 08/31/2023 20:58:58Z
+    DateTime=2023-08-31T20:58:58.8319964Z: 08/31/2023 20:58:58Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !IDB 17.7.0.216 started: 08/31/2023 20:58:58Z
+    DateTime=2023-08-31T20:58:58.8319964Z: 08/31/2023 20:58:58Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting registered Agents: ...: 08/31/2023 20:58:58Z
+    DateTime=2023-08-31T20:58:58.8923600Z: 08/31/2023 20:58:58Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting registered Agents: ...: 08/31/2023 20:58:58Z
+    DateTime=2023-08-31T20:58:58.8923600Z: 08/31/2023 20:58:58Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from AgentsStartingState to AgentsStartedState on AxeMac (192.168.1.109): 08/31/2023 20:58:58Z
+    DateTime=2023-08-31T20:58:58.9064001Z: 08/31/2023 20:58:58Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The Agents have been started successfully: 08/31/2023 20:58:59Z
+    DateTime=2023-08-31T20:58:59.1170172Z: 08/31/2023 20:58:59Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The Agents have been started successfully: 08/31/2023 20:58:59Z
+    DateTime=2023-08-31T20:58:59.1170172Z: 08/31/2023 20:58:59Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from AgentsStartedState to AgentsCompletingState on AxeMac (192.168.1.109): 08/31/2023 20:58:59Z
+    DateTime=2023-08-31T20:58:59.1320170Z: 08/31/2023 20:58:59Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from AgentsCompletingState to ConnectedState on AxeMac (192.168.1.109): 08/31/2023 20:58:59Z
+    DateTime=2023-08-31T20:58:59.2247282Z: 08/31/2023 20:58:59Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Connection to 'AxeMac' completed successfully: 08/31/2023 20:58:59Z
+    DateTime=2023-08-31T20:58:59.3611408Z: 08/31/2023 20:58:59Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Connection to 'AxeMac' completed successfully: 08/31/2023 20:58:59Z
+    DateTime=2023-08-31T20:58:59.3611408Z: 08/31/2023 20:58:59Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConnectedState to DisconnectingState on AxeMac (192.168.1.109): 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.0003221Z: 08/31/2023 20:59:00Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting disconnection from AxeMac...: 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.0774583Z: 08/31/2023 20:59:00Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting disconnection from AxeMac...: 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.0774583Z: 08/31/2023 20:59:00Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Closing the underlying Messaging connection...: 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.1010206Z: 08/31/2023 20:59:00Z
+System.Net.Mqtt.Sdk.Bindings.TcpChannel Warning: 0 : The underlying communication stream has completed sending bytes. The observable sequence will be completed and the channel will be disposed: 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.1213501Z: 08/31/2023 20:59:00Z
+System.Net.Mqtt.Sdk.ClientPacketListener Warning: 0 : Client vs13292James - Packet Channel observable sequence has been completed: 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.1213501Z: 08/31/2023 20:59:00Z
+Xamarin.Messaging.Client.MessagingClient Error: 0 : The client vs13292James has been disconnected while waiting a post response to topic xma/agents
+Xamarin.Messaging.Exceptions.ClientDisconnectedException: The client vs13292James has been disconnected while waiting a post response to topic xma/agents
+   at Xamarin.Messaging.Client.MessagingClient.<PostAsync>d__21`2.MoveNext() in D:\a\_work\1\s\src\Xamarin.Messaging.Client\MessagingClient.cs:line 190: 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.1253513Z: 08/31/2023 20:59:00Z
+Xamarin.Messaging.Ssh.MessagingClientPro Warning: 0 : An error occurred while executing the operation. Trying to reestablish the connection...: 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.1253513Z: 08/31/2023 20:59:00Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : The underlying Messaging connection has been closed: 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.1263511Z: 08/31/2023 20:59:00Z
+Xamarin.Messaging.Ssh.MessagingService Information: 0 : Disposing Messaging service references...: 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.1263511Z: 08/31/2023 20:59:00Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting disconnection from AxeMac...: 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.1685451Z: 08/31/2023 20:59:00Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting disconnection from AxeMac...: 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.1685451Z: 08/31/2023 20:59:00Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from DisconnectingState to DisconnectedState on AxeMac (192.168.1.109): 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.1685451Z: 08/31/2023 20:59:00Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : The connection to 'AxeMac' has been finished: 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.2167187Z: 08/31/2023 20:59:00Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !The connection to 'AxeMac' has been finished: 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.2167187Z: 08/31/2023 20:59:00Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from DisconnectedState to DisconnectedState on AxeMac (192.168.1.109): 08/31/2023 20:59:00Z
+    DateTime=2023-08-31T20:59:00.2415572Z: 08/31/2023 20:59:00Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from DisconnectedState to ConfiguringState on AxeMac (192.168.1.109): 08/31/2023 20:59:08Z
+    DateTime=2023-08-31T20:59:08.4147034Z: 08/31/2023 20:59:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking host configuration for connecting to 'AxeMac'...: 08/31/2023 20:59:08Z
+    DateTime=2023-08-31T20:59:08.4679833Z: 08/31/2023 20:59:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking host configuration for connecting to 'AxeMac'...: 08/31/2023 20:59:08Z
+    DateTime=2023-08-31T20:59:08.4679833Z: 08/31/2023 20:59:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking SSH configuration...: 08/31/2023 20:59:08Z
+    DateTime=2023-08-31T20:59:08.5535367Z: 08/31/2023 20:59:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking SSH configuration...: 08/31/2023 20:59:08Z
+    DateTime=2023-08-31T20:59:08.5535367Z: 08/31/2023 20:59:08Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Initializing environment...: 08/31/2023 20:59:26Z
+    DateTime=2023-08-31T20:59:26.6002628Z: 08/31/2023 20:59:26Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Initializing environment...: 08/31/2023 20:59:26Z
+    DateTime=2023-08-31T20:59:26.6002628Z: 08/31/2023 20:59:26Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking available disk space...: 08/31/2023 20:59:26Z
+    DateTime=2023-08-31T20:59:26.6369736Z: 08/31/2023 20:59:26Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking available disk space...: 08/31/2023 20:59:26Z
+    DateTime=2023-08-31T20:59:26.6379620Z: 08/31/2023 20:59:26Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking if Rosetta is installed...: 08/31/2023 20:59:26Z
+    DateTime=2023-08-31T20:59:26.6932709Z: 08/31/2023 20:59:26Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking if Rosetta is installed...: 08/31/2023 20:59:26Z
+    DateTime=2023-08-31T20:59:26.6932709Z: 08/31/2023 20:59:26Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Mono installation...: 08/31/2023 20:59:26Z
+    DateTime=2023-08-31T20:59:26.7483231Z: 08/31/2023 20:59:26Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Mono installation...: 08/31/2023 20:59:26Z
+    DateTime=2023-08-31T20:59:26.7483231Z: 08/31/2023 20:59:26Z
+Xamarin.Messaging.Ssh.SshCommands Information: 0 : A valid Mono installation has been found at '/Library/Frameworks/Mono.framework/Versions/Current/bin/mono64': 08/31/2023 20:59:26Z
+    DateTime=2023-08-31T20:59:26.7981475Z: 08/31/2023 20:59:26Z
+Xamarin.Messaging.Integration.State.ServerStateContext Warning: 0 : The required Mono version to install on the Mac couldn't be determined, so the Mono validation will not continue.: 08/31/2023 20:59:27Z
+    DateTime=2023-08-31T20:59:27.1059611Z: 08/31/2023 20:59:27Z
+Xamarin.Messaging.Integration.State.ServerStateContext Warning: 0 : !The required Mono version to install on the Mac couldn't be determined, so the Mono validation will not continue.: 08/31/2023 20:59:27Z
+    DateTime=2023-08-31T20:59:27.1059611Z: 08/31/2023 20:59:27Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking Xamarin iOS installation...: 08/31/2023 20:59:27Z
+    DateTime=2023-08-31T20:59:27.1556581Z: 08/31/2023 20:59:27Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking Xamarin iOS installation...: 08/31/2023 20:59:27Z
+    DateTime=2023-08-31T20:59:27.1556581Z: 08/31/2023 20:59:27Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Checking host configuration for connecting to 'AxeMac'...: 08/31/2023 20:59:27Z
+    DateTime=2023-08-31T20:59:27.2552468Z: 08/31/2023 20:59:27Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Checking host configuration for connecting to 'AxeMac'...: 08/31/2023 20:59:27Z
+    DateTime=2023-08-31T20:59:27.2562464Z: 08/31/2023 20:59:27Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConfiguringState to ConfiguredState on AxeMac (192.168.1.109): 08/31/2023 20:59:27Z
+    DateTime=2023-08-31T20:59:27.2744017Z: 08/31/2023 20:59:27Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Host 'AxeMac' is configured correctly: 08/31/2023 20:59:27Z
+    DateTime=2023-08-31T20:59:27.3062267Z: 08/31/2023 20:59:27Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Host 'AxeMac' is configured correctly: 08/31/2023 20:59:27Z
+    DateTime=2023-08-31T20:59:27.3062267Z: 08/31/2023 20:59:27Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Server State transition from ConfiguredState to ConnectingState on AxeMac (192.168.1.109): 08/31/2023 20:59:27Z
+    DateTime=2023-08-31T20:59:27.3202347Z: 08/31/2023 20:59:27Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : Starting connection to 'AxeMac'...: 08/31/2023 20:59:27Z
+    DateTime=2023-08-31T20:59:27.3733580Z: 08/31/2023 20:59:27Z
+Xamarin.Messaging.Integration.State.ServerStateContext Information: 0 : !Starting connection to 'AxeMac'...: 08/31/2023 20:59:27Z
+    DateTime=2023-08-31T20:59:27.3733580Z: 08/31/2023 20:59:27Z
